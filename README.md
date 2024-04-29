@@ -1,2 +1,2 @@
-# Aprenndendo Git
- Primerio repositorio da  vida
+# Aprendendo Git
+ Primerio repositório da  vida
